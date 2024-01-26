@@ -21,7 +21,6 @@ bcrypt==4.0.1
 beautifulsoup4==4.11.2
 bleach==6.0.0
 blinker==1.6.3
-boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1677499911949/work
 brotlipy==0.7.0
 bs4==0.0.1
 cachetools==5.3.1
@@ -269,7 +268,6 @@ tiktoken==0.5.1
 tinycss2==1.2.1
 tldextract==3.4.4
 tokenizers==0.14.1
-toolz @ file:///croot/toolz_1667464077321/work
 torch==2.0.1
 torch-tb-profiler==0.4.1
 tornado==6.2
